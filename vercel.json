@@ -1,6 +1,11 @@
 {
   "framework": "nextjs",
-  "buildCommand": "npm run build",
+  "buildCommand": "npx prisma generate && npx prisma db push --accept-data-loss && next build",
   "installCommand": "npm install",
-  "outputDirectory": ".next"
+  "outputDirectory": ".next",
+  "env": {
+    "DATABASE_URL": "postgresql://neondb_owner:npg_IS4XJyjEDK1L@ep-winter-darkness-aprlhpie-pooler.c-7.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require",
+    "ADMIN_PASSWORD": "ZayrAdmin2026!",
+    "ADMIN_SECRET": "zayr-secret-token-2026"
+  }
 }
