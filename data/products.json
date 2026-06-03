@@ -31,23 +31,24 @@
       "id": "1",
       "slug": "isolfan-prebiotic-collagen-chocolate",
       "name": "ISOLFAN Prebiotic Collagen Chocolate",
-      "shortDescription": "Le plaisir gourmand qui prend soin de votre beauté !",
-      "description": "Le plaisir gourmand qui prend soin de votre beauté ! ISOLFAN combine du collagène marin hydrolysé haute absorption, des prébiotiques et du cacao pour une boisson délicieuse qui améliore la santé de la peau, des cheveux et des ongles, tout en prenant soin de votre microbiote intestinal.",
+      "shortDescription": "Le chocolat minceur qui brûle les graisses et sublime votre beauté !",
+      "description": "Perdez du poids tout en vous faisant plaisir ! ISOLFAN Prebiotic Collagen Chocolate est le chocolat minceur qui combine la perte de poids et la beauté en une seule boisson. Sa formule unique associe des actifs brûle-graisses, du collagène marin hydrolysé et des prébiotiques pour affiner la silhouette, booster le métabolisme et sublimer la peau, les cheveux et les ongles. Une détox gourmande et efficace — résultats visibles dès les premières semaines.",
       "price": 14000,
       "currency": "FCFA",
-      "category": "beaute-bien-etre",
+      "category": "minceur",
       "brand": "ISOLFAN",
       "images": [
         "/products/chocolat-detox-1.png",
         "/products/chocolat-detox-2.png"
       ],
       "benefits": [
+        "Favorise la perte de poids et brûle les graisses",
+        "Booste le métabolisme et réduit les fringales",
+        "Affine la silhouette et réduit la cellulite",
         "Collagène marin hydrolysé haute absorption",
         "Prébiotiques pour un microbiote sain",
-        "Saveur chocolat gourmande",
         "Améliore peau, cheveux et ongles",
-        "Riche en antioxydants naturels",
-        "Digestion facile et agréable"
+        "Saveur chocolat gourmande — sans culpabilité"
       ],
       "featured": true,
       "popular": true,
