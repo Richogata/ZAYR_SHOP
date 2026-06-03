@@ -37,7 +37,10 @@
       "currency": "FCFA",
       "category": "beaute-bien-etre",
       "brand": "ISOLFAN",
-      "images": ["/products/chocolat-detox-1.png", "/products/chocolat-detox-2.png"],
+      "images": [
+        "/products/chocolat-detox-1.png",
+        "/products/chocolat-detox-2.png"
+      ],
       "benefits": [
         "Collagène marin hydrolysé haute absorption",
         "Prébiotiques pour un microbiote sain",
@@ -61,7 +64,10 @@
       "currency": "FCFA",
       "category": "sante-feminine",
       "brand": "Wins Town",
-      "images": ["/products/the-fertilite-1.png", "/products/the-fertilite-2.png"],
+      "images": [
+        "/products/the-fertilite-1.png",
+        "/products/the-fertilite-2.png"
+      ],
       "benefits": [
         "Aide à soulager les sautes d'humeur",
         "Soutient la densité osseuse (ostéoporose)",
@@ -85,7 +91,10 @@
       "currency": "FCFA",
       "category": "minceur",
       "brand": "Wins Town",
-      "images": ["/products/ventre-plat-1.png", "/products/ventre-plat-2.png"],
+      "images": [
+        "/products/ventre-plat-1.png",
+        "/products/ventre-plat-2.png"
+      ],
       "benefits": [
         "Extrait naturel de Garcinia Cambogia",
         "Réduit l'appétit naturellement",
@@ -131,20 +140,23 @@
       "id": "5",
       "slug": "bande-de-resistance-multifonctionnelle-4-tubes",
       "name": "Bande de Résistance Multifonctionnelle 4 tubes",
-      "shortDescription": "Sculptez votre silhouette où que vous soyez !",
-      "description": "Sculptez votre silhouette où que vous soyez ! La Bande de Résistance à Pédale Multifonctionnelle est l'accessoire de fitness ultime pour transformer votre routine d'entraînement à domicile. Idéale pour aplatir le ventre, raffermir les bras et galber les jambes — sans salle de sport.",
+      "shortDescription": "Brûlez les graisses et sculptez votre silhouette à domicile !",
+      "description": "Perdez du poids et sculptez votre silhouette sans salle de sport ! La Bande de Résistance à Pédale Multifonctionnelle est l'accessoire minceur incontournable pour brûler les calories, aplatir le ventre, affiner la taille et tonifier tout le corps. Grâce à ses 4 niveaux de résistance progressive, chaque séance booste votre métabolisme et accélère la combustion des graisses — résultats visibles dès les premières semaines.",
       "price": 6000,
       "currency": "FCFA",
-      "category": "fitness-sport",
+      "category": "minceur",
       "brand": "ZAYR",
-      "images": ["/products/bande-resistance-1.png"],
+      "images": [
+        "/products/bande-resistance-1.png"
+      ],
       "benefits": [
-        "4 tubes de résistance inclus",
-        "Système à pédale antidérapant",
-        "Multifonctionnel : bras, jambes, abdos, dos",
-        "Compatible yoga et stretching",
-        "Compact et facile à transporter",
-        "Idéal pour l'entraînement à domicile"
+        "Brûle les calories et accélère la perte de poids",
+        "Affine la taille et aplatit le ventre",
+        "Tonifie les bras, jambes, fesses et abdos",
+        "4 tubes de résistance progressive inclus",
+        "Système à pédale antidérapant et stable",
+        "Séances minceur efficaces à domicile",
+        "Compact et facile à transporter partout"
       ],
       "featured": true,
       "popular": true,
