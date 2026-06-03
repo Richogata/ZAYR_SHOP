@@ -1,0 +1,155 @@
+{
+  "categories": [
+    {
+      "id": "beaute-bien-etre",
+      "label": "Beauté & Bien-être",
+      "description": "Compléments alimentaires pour votre éclat et votre santé"
+    },
+    {
+      "id": "sante-feminine",
+      "label": "Santé féminine",
+      "description": "Phytothérapie et équilibre pour la femme"
+    },
+    {
+      "id": "minceur",
+      "label": "Minceur & Perte de poids",
+      "description": "Compléments alimentaires pour sculpter votre silhouette"
+    },
+    {
+      "id": "sante-masculine",
+      "label": "Santé masculine",
+      "description": "Compléments alimentaires pour l'énergie et la vitalité"
+    },
+    {
+      "id": "fitness-sport",
+      "label": "Fitness & Sport",
+      "description": "Accessoires d'entraînement et de fitness à domicile"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "slug": "isolfan-prebiotic-collagen-chocolate",
+      "name": "ISOLFAN Prebiotic Collagen Chocolate",
+      "shortDescription": "Le plaisir gourmand qui prend soin de votre beauté !",
+      "description": "Le plaisir gourmand qui prend soin de votre beauté ! ISOLFAN combine du collagène marin hydrolysé haute absorption, des prébiotiques et du cacao pour une boisson délicieuse qui améliore la santé de la peau, des cheveux et des ongles, tout en prenant soin de votre microbiote intestinal.",
+      "price": 14000,
+      "currency": "FCFA",
+      "category": "beaute-bien-etre",
+      "brand": "ISOLFAN",
+      "images": ["/products/chocolat-detox-1.png", "/products/chocolat-detox-2.png"],
+      "benefits": [
+        "Collagène marin hydrolysé haute absorption",
+        "Prébiotiques pour un microbiote sain",
+        "Saveur chocolat gourmande",
+        "Améliore peau, cheveux et ongles",
+        "Riche en antioxydants naturels",
+        "Digestion facile et agréable"
+      ],
+      "featured": true,
+      "popular": true,
+      "recommended": true,
+      "inStock": true
+    },
+    {
+      "id": "2",
+      "slug": "fertility-tea",
+      "name": "Fertility Tea",
+      "shortDescription": "Un mélange d'herbes naturelles conçu pour soutenir la santé féminine.",
+      "description": "Un mélange d'herbes naturelles conçu pour soutenir la santé féminine, en particulier les problèmes liés à l'utérus et à la fertilité. Une solution douce et naturelle pour retrouver équilibre et bien-être féminin.",
+      "price": 11000,
+      "currency": "FCFA",
+      "category": "sante-feminine",
+      "brand": "Wins Town",
+      "images": ["/products/the-fertilite-1.png", "/products/the-fertilite-2.png"],
+      "benefits": [
+        "Aide à soulager les sautes d'humeur",
+        "Soutient la densité osseuse (ostéoporose)",
+        "Apaise les menstruations douloureuses",
+        "Réduit la sécheresse vaginale",
+        "Formule 100% herbes naturelles",
+        "Soutien global à la fertilité féminine"
+      ],
+      "featured": true,
+      "popular": true,
+      "recommended": true,
+      "inStock": true
+    },
+    {
+      "id": "3",
+      "slug": "flat-tumy-garcinia-cambogia",
+      "name": "Flat Tumy Garcinia Cambogia",
+      "shortDescription": "Brûlez vos graisses naturellement avec le Flat Tumy Garcinia Cambogia.",
+      "description": "Brûlez vos graisses naturellement avec le Flat Tumy Garcinia Cambogia. La Garcinia Cambogia est un fruit tropical dont l'extrait contient de l'HCA (acide hydroxycitrique), reconnu pour aider à réduire l'appétit et soutenir la perte de poids de manière naturelle et saine. Résultats visibles dès 4 semaines.",
+      "price": 10000,
+      "currency": "FCFA",
+      "category": "minceur",
+      "brand": "Wins Town",
+      "images": ["/products/ventre-plat-1.png", "/products/ventre-plat-2.png"],
+      "benefits": [
+        "Extrait naturel de Garcinia Cambogia",
+        "Réduit l'appétit naturellement",
+        "Favorise la combustion des graisses",
+        "Aide à maintenir un poids sain",
+        "Sans stimulant artificiel",
+        "Résultats visibles en 4 semaines"
+      ],
+      "featured": true,
+      "popular": true,
+      "recommended": true,
+      "inStock": true
+    },
+    {
+      "id": "4",
+      "slug": "men-fertility-tablet",
+      "name": "Men Fertility Tablet",
+      "shortDescription": "Optimisez votre santé reproductive masculine.",
+      "description": "Optimisez votre santé reproductive masculine avec Men Fertility Tablet. Cette formule naturelle combinée soutient la production de spermatozoïdes, améliore la mobilité et la vitalité, et renforce la santé hormonale masculine de manière globale et durable.",
+      "price": 11000,
+      "currency": "FCFA",
+      "category": "sante-masculine",
+      "brand": "Wins Town",
+      "images": [
+        "/products/vitalite-masculine-1.png",
+        "/products/vitalite-masculine-2.png",
+        "/products/vitalite-masculine-3.png"
+      ],
+      "benefits": [
+        "Améliore la qualité et la motilité des spermatozoïdes",
+        "Soutient la production naturelle de sperme",
+        "Protection antioxydante cellulaire",
+        "Soutien nutritionnel pour la conception",
+        "Riche en zinc, sélénium et vitamines",
+        "Formule 100% naturelle"
+      ],
+      "featured": true,
+      "popular": true,
+      "recommended": true,
+      "inStock": true
+    },
+    {
+      "id": "5",
+      "slug": "bande-de-resistance-multifonctionnelle-4-tubes",
+      "name": "Bande de Résistance Multifonctionnelle 4 tubes",
+      "shortDescription": "Sculptez votre silhouette où que vous soyez !",
+      "description": "Sculptez votre silhouette où que vous soyez ! La Bande de Résistance à Pédale Multifonctionnelle est l'accessoire de fitness ultime pour transformer votre routine d'entraînement à domicile. Idéale pour aplatir le ventre, raffermir les bras et galber les jambes — sans salle de sport.",
+      "price": 6000,
+      "currency": "FCFA",
+      "category": "fitness-sport",
+      "brand": "ZAYR",
+      "images": ["/products/bande-resistance-1.png"],
+      "benefits": [
+        "4 tubes de résistance inclus",
+        "Système à pédale antidérapant",
+        "Multifonctionnel : bras, jambes, abdos, dos",
+        "Compatible yoga et stretching",
+        "Compact et facile à transporter",
+        "Idéal pour l'entraînement à domicile"
+      ],
+      "featured": true,
+      "popular": true,
+      "recommended": true,
+      "inStock": true
+    }
+  ]
+}

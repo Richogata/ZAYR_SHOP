@@ -1,0 +1,5 @@
+nom: Mon Nouveau Produit
+prix: 15000
+description_courte: Courte description du produit
+description: Description complète du produit importé depuis ZIP.
+categorie: bien-etre
